@@ -1,0 +1,2 @@
+hellomake: HW3part2b.c HW3part2a.c
+	gcc -o output HW3part2b.c HW3part2a.c -I
